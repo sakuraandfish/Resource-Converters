@@ -1,0 +1,55 @@
+{
+  "Name": "Wood Compactor",
+  "Description": "Compresses standard wood into hardwood.",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveNextIndex": true,
+  "Recipe":
+    {
+      "ResultCount": 1,
+      "Ingredients": [
+    {
+      "Object": 388,
+      "Count": 20,
+    },
+    {
+      "Object": 390,
+      "Count": 10,
+    },
+    {
+      "Object": 335,
+      "Count": 1,
+    },
+  ],
+    "CanPurchase": false,
+    "IsDefault": true,
+  },
+    "NameLocalization":
+      {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "木材压实机",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "将标准木材压缩成硬木。",
+    }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "Extractor",
+  "Description": "Extracts tree sap from seeds. Somehow.",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveNextIndex": true,
+  "Recipe":
+    {
+      "ResultCount": 1,
+      "Ingredients": [
+    {
+      "Object": 335,
+      "Count": 10,
+    },
+    {
+      "Object": 338,
+      "Count": 5,
+    },
+    {
+      "Object": 382,
+      "Count": 2,
+    },
+  ],
+    "CanPurchase": false,
+    "IsDefault": true,
+  },
+    "NameLocalization":
+      {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "提取器",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "从种子中提取树液。在某种程度上。",
+    }
+}

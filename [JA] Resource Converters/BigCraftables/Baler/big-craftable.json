@@ -1,0 +1,59 @@
+{
+  "Name": "Baler",
+  "Description": "A high capacity machine to dry cut grass for animal feed.",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveNextIndex": true,
+  "Recipe":
+    {
+      "ResultCount": 1,
+      "Ingredients": [
+    {
+      "Object": 388,
+      "Count": 20,
+    },
+    {
+      "Object": 390,
+      "Count": 10,
+    },
+    {
+      "Object": 335,
+      "Count": 5,
+    },
+    {
+      "Object": 334,
+      "Count": 1,
+    },
+  ],
+    "CanPurchase": false,
+    "IsDefault": true,
+  },
+      "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "压密机",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一种高容量机器，用于干燥纤维作为动物饲料。",
+    }
+}
